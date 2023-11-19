@@ -1,0 +1,12 @@
+C:\VCS2019_Application\Ten\Ten\bin\Debug\Ten.exe.config
+C:\VCS2019_Application\Ten\Ten\bin\Debug\Ten.exe
+C:\VCS2019_Application\Ten\Ten\bin\Debug\Ten.pdb
+C:\VCS2019_Application\Ten\Ten\obj\Debug\Ten.csproj.AssemblyReference.cache
+C:\VCS2019_Application\Ten\Ten\obj\Debug\Ten.csproj.SuggestedBindingRedirects.cache
+C:\VCS2019_Application\Ten\Ten\obj\Debug\Ten.FormTen.resources
+C:\VCS2019_Application\Ten\Ten\obj\Debug\Ten.Properties.Resources.resources
+C:\VCS2019_Application\Ten\Ten\obj\Debug\Ten.csproj.GenerateResource.cache
+C:\VCS2019_Application\Ten\Ten\obj\Debug\Ten.csproj.CoreCompileInputs.cache
+C:\VCS2019_Application\Ten\Ten\obj\Debug\Ten.exe
+C:\VCS2019_Application\Ten\Ten\obj\Debug\Ten.pdb
+C:\VCS2019_Application\Ten\Ten\obj\Debug\Ten.FormSucces.resources
